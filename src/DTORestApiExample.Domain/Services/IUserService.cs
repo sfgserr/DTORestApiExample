@@ -4,7 +4,7 @@ namespace DTORestApiExample.Domain.Services
 {
     public interface IUserService
     {
-        Task<User> GetUserByEmail(string email);
+        Task<List<User>> GetUsers();
 
         Task AddUser(User user);
     }
