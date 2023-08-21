@@ -1,5 +1,5 @@
 
-namespace DTORestApiExample
+namespace DTORestApiExample.Api
 {
     public class Program
     {
