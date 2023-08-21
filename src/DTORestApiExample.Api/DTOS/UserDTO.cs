@@ -1,5 +1,4 @@
-﻿
-namespace DTORestApiExample.Api.DTOS
+﻿namespace DTORestApiExample.Api.DTOs
 {
     public class UserDTO
     {

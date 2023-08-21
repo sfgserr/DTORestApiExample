@@ -1,4 +1,4 @@
-﻿using DTORestApiExample.Api.DTOS;
+﻿using DTORestApiExample.Api.DTOs;
 using DTORestApiExample.Domain.Models;
 
 namespace DTORestApiExample.Api.Helpers

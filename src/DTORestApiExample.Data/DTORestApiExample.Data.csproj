@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\DTORestApiExample.Domain\DTORestApiExample.Domain.csproj" />
+    <ProjectReference Include="..\DTORestApiExample.Domain\DTORestApiExample.Domain.csproj" />
   </ItemGroup>
 
 </Project>
