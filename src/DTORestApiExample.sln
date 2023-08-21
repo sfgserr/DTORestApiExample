@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTORestApiExample.Domain", "DTORestApiExample.Domain\DTORestApiExample.Domain.csproj", "{18A92D16-A463-4655-A793-9B42B6F27072}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTORestApiExample.Domain", "DTORestApiExample.Domain\DTORestApiExample.Domain.csproj", "{18A92D16-A463-4655-A793-9B42B6F27072}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTORestApiExample.Data", "DTORestApiExample.Data\DTORestApiExample.Data.csproj", "{FFD8F0CB-C7BF-46ED-B78F-66EFC47CD8DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTORestApiExample.Data", "DTORestApiExample.Data\DTORestApiExample.Data.csproj", "{FFD8F0CB-C7BF-46ED-B78F-66EFC47CD8DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTORestApiExample.Api", "DTORestApiExample.Api\DTORestApiExample.Api.csproj", "{012398EF-BB64-45AB-98F8-47F2FC184CB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTORestApiExample.Api", "DTORestApiExample.Api\DTORestApiExample.Api.csproj", "{012398EF-BB64-45AB-98F8-47F2FC184CB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTORestApiExample.Application", "DTORestApiExample.Application\DTORestApiExample.Application.csproj", "{EA03FC1A-54DD-4B58-896E-0B493500EA90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTORestApiExample.Application", "DTORestApiExample.Application\DTORestApiExample.Application.csproj", "{EA03FC1A-54DD-4B58-896E-0B493500EA90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
